@@ -2,14 +2,14 @@ body {
     background: #bdbdbd
 }
 
-#banner {
-    width: 100%;
-}
-
 p {
     text-align: center;
 }
 
 em strong {
     color: #5c3232;
+}
+
+#banner {
+    width: 100%;
 }
